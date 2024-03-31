@@ -9,7 +9,7 @@ def lo(word):
             sys.stdout.write(('\r{}{}').format(str(word), heron[x]))
             time.sleep(0.1)
             sys.stdout.flush()
-lo("     ⋆༺𓆩𝙒𝘼𝙄𝙏𓆪༻⋆...")
+lo("     ⋆༺𓆩#1🇮🇶𖨤𓆩- 𓊆L. M𝑬𝑺𝑺𝑰🫀𓊇✞࿅𓆪༻⋆...")
 import requests,random
 import requests,random,os,uuid,json,user_agent,time,sys,socket,datetime
 from datetime import date
@@ -248,6 +248,7 @@ B = '\033[2;36m'
 Y = '\033[1;34m'
 print(f"""
 \033[1;32m - #1🇮🇶𖨤𓆩- 𓊆L. M𝑬𝑺𝑺𝑰🫀𓊇✞࿅
+ཧᜰ꙰ꦿ➢❤️‍🩹-𝐑𝒶𝐣𝐘༒
 """ )
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
