@@ -9,7 +9,7 @@ def lo(word):
             sys.stdout.write(('\r{}{}').format(str(word), heron[x]))
             time.sleep(0.1)
             sys.stdout.flush()
-lo("     ⋆༺𓆩𝙒𝘼𝙄𝙏𓆪༻⋆...")
+lo("     ⋆༺𓆩#1🇮🇶𖨤𓆩- 𓊆L. M𝑬𝑺𝑺𝑰🫀𓊇✞࿅𓆪༻⋆...")
 import requests,random
 import requests,random,os,uuid,json,user_agent,time,sys,socket,datetime
 from datetime import date
@@ -547,13 +547,13 @@ def menu(my_name,my_id):
 	print('') 
 	print(f'\033[2;36m» 𝐘𝐎𝐑 𝐈𝐏 -  : {ip}          ')
 	print('') 
-	print(a32+'★★'*25)
-	print('\x1b[38;5;255m» 1- Fishing from friends : من الاصدقاء  ')
-	print(a22+'––'*25)
-	print('\x1b[38;5;255m» 2- Crack File  : مــن مــلــف  ')	
-	print(a22+'––'*25)
+	print(a32+'🤨'*25)
+	print('\x1b[38;5;255m» 1- Fishing from friends : صيد من الاصدقاء  ')
+	print(a22+'°°'*25)
+	print('\x1b[38;5;255m» 2- Crack File  : صيد مــن مــلــف  ')	
+	print(a22+'°°'*25)
 	print('\x1b[38;5;255m» 0- Login out  : تسجيل خروج   ')
-	print(a32+'★★'*25)
+	print(a32+'🙂'*25)
 	print('')
 	_____alvino__adijaya_____ = input('\x1b[38;5;13m[+] Chose : ')
 	if _____alvino__adijaya_____ in ['1']:
