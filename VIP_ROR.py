@@ -238,7 +238,7 @@ A = '\033[2;34m'
 B = '\033[2;36m'
 Y = '\033[1;34m'
 print(f"""
-\033[1;32m < BY 𝅄 火 - ميسي !
+\033[1;32m < BY 𝅄 火 - 𝙍𝙊𝙍-𝙑𝙄𝙋 !
 """ )
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
