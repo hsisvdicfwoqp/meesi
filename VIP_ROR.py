@@ -946,7 +946,7 @@ def crack(idf, pwv):
 	global loop,ok,cp
 	bo = random.choice([m,k,h,b,u,x])
 	rc = random.choice
-	sys.stdout.write(f"\r{bo}[MR_HAMA] - {loop}/{len(id)} - [OK:{ok}] - [CP:{cp}] {'{:.0%}'.format(loop/float(len(id)))}    "),
+	sys.stdout.write(f"\r{bo}[VIP-ROR] - {loop}/{len(id)} - [OK:{ok}] - [CP:{cp}] {'{:.0%}'.format(loop/float(len(id)))}    "),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
